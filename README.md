@@ -1,6 +1,9 @@
 # Scientific Notation Scanner
 
 Aplikasi web sederhana untuk memeriksa apakah sebuah angka ditulis dalam **Scientific Notation** (Notasi Ilmiah).
+Adalah tugas automata yang dibuat oleh 
+Virgin Gabriela Toisuta dengan
+nim 211012060077
 
 ## Fitur
 
